@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'thin';
+    src: url(./ChenYuluoyan-Thin.ttf);
+}
+
+*{
+    font-family: 'thin',微軟正黑體;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #252525;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+section{
+    text-align: center;
+}
+
+#number{
+    padding: 30px;
+    font-size: 36px;
+    color: #252525;
+    text-align: center;
+}
+
+button{
+    padding: 20px 50px;
+    margin-top: 20px;
+    color:#252525 ;
+    font-size: 24px;
+}
+
+.tip{
+    padding: 50px 0;
+    font-size: 24px;
+    color: #fff;
+}
